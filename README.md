@@ -47,7 +47,7 @@ Column Name               Column Content
 ...  #E_{str}            Normalized error in filter
 
 
-# Outputs:
+## Outputs:
 file names 'outputs/bluejay_photoz_hst.zphot*'
 	-> .zout.fits = main output file, with all photometric redshifts + stellar pop. parameters
 	-> .zphot.fits = output file with photometric redshifts
