@@ -55,7 +55,7 @@ file names 'outputs/bluejay_photoz_hst.zphot*'
 	-> .zeropoints = zeropoints correnction (not implemented)
 	-> .translate = translation file for running EaZy
 
-# Alternative outputs: with spectroscopic redshift prior enabled ('photometry_zspec.py')
+## Alternative outputs: with spectroscopic redshift prior enabled ('photometry_zspec.py')
 file names = 'outputs/bluejay_photoz_zspec.zphot*'
 
 #---------------------------------------------------------------------------------------------------
@@ -123,7 +123,7 @@ Eazy parameters setting are default + modified parameters in Jupyter Notebook 'p
 
 Templates used are in 'templates/' directory
 
-# Outputs:
+## Outputs:
 file names 'outputs/bluejay_photoz_3dhst.zphot*'
 	-> .zout.fits = main output file, with all photometric redshifts + stellar pop. parameters
 	-> .zphot.fits = output file with photometric redshifts
