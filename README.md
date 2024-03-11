@@ -8,21 +8,21 @@ File of catalog:
 'inputs/phot_cat.cat'
 
 Contents of catalog:
-+-------------------+------------+---------------------------+
-|                   |            |                           |
-| Bands             |  Survey    |  Data FITS file           |
-|                   |            |                           |
-+===================+============+===========================+
-| NIRCAM            | Blue Jay   | 'data/Flux_Aperture_      |
-| F090W,F115W,F150W,|            | PSFMatched_AperCorr.fits' |
-| F200W F277W,F356W,|            |                           |
-| F410M,F444W       |            |                           |
-+-------------------+------------+---------------------------+
-| F606W,F814W       | CANDELS    | 'data/HST_Flux_           |
-| F125W,F160W       |            |  Aperture.fits'           |
-+-------------------+------------+---------------------------+
-| F140W             | 3D-HST     | same as above             |
-+-------------------+------------+---------------------------+
+	+-------------------+------------+---------------------------+
+	|                   |            |                           |
+	| Bands             |  Survey    |  Data FITS file           |
+	|                   |            |                           |
+	+===================+============+===========================+
+	| NIRCAM            | Blue Jay   | 'data/Flux_Aperture_      |
+	| F090W,F115W,F150W,|            | PSFMatched_AperCorr.fits' |
+	| F200W F277W,F356W,|            |                           |
+	| F410M,F444W       |            |                           |
+	+-------------------+------------+---------------------------+
+	| F606W,F814W       | CANDELS    | 'data/HST_Flux_           |
+	| F125W,F160W       |            |  Aperture.fits'           |
+	+-------------------+------------+---------------------------+
+	| F140W             | 3D-HST     | same as above             |
+	+-------------------+------------+---------------------------+
 
 The catalog has a single line header with all column names as shown here: (ASCII file)
 
