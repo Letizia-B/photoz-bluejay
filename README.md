@@ -1,6 +1,9 @@
 ## BlueJay-photoz
 Photometric redshifts with EAZY for the Blue Jay catalog
 
+Binder notebook launcher to see the results (interactive!!) - only for n.2 photozs
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FLetizia-B%2Fphotoz-bluejay/HEAD?labpath=photoz_3dhst_nircam.ipybn)
+
 # 1: NIRCam and HST only photometry
 For photometry extraction details, ask Amir Khoram
 
